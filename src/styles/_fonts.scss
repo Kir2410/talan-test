@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "GraphikLCGRegular";
+  src: url("@/styles/fonts/GraphikLCG-Regular.eot") format("embedded-opentype"),
+  url("@/styles/fonts/GraphikLCG-Regular.woff") format("woff"),
+  url("@/styles/fonts/GraphikLCG-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: "GraphikLCGMedium";
+  src: url("@/styles/fonts/GraphikLCG-Medium.eot") format("embedded-opentype"),
+  url("@/styles/fonts/GraphikLCG-Medium.woff") format("woff"),
+  url("@/styles/fonts/GraphikLCG-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: "Stolzl-bold";
+  src: url("@/styles/fonts/Stolzl-Bold.eot") format("embedded-opentype"),
+  url("@/styles/fonts/Stolzl-Bold.woff") format("woff"),
+  url("@/styles/fonts/Stolzl-Bold.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: "Stolzl-Medium";
+  src: url("@/styles/fonts/Stolzl-Medium.eot") format("embedded-opentype"),
+  url("@/styles/fonts/Stolzl-Medium.woff") format("woff"),
+  url("@/styles/fonts/Stolzl-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 500;
+}
